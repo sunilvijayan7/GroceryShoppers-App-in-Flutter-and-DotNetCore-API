@@ -28,11 +28,11 @@
 </ul>
 <ul>
 <ul style="list-style: none;">
-<li style="width:20%"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/quickdelivery.png" /></li>
-<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/purchase.png" /></li>
-<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/orderonline.png" /></li>
-<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/customerorders.png" /></li>
-<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/checkout.png" /></li>
+<li><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/quickdelivery.png" width="200" height="400"/></li>
+<li><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/purchase.png" /></li>
+<li ><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/orderonline.png" /></li>
+<li ><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/customerorders.png" /></li>
+<li ><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/checkout.png" /></li>
 </ul>
 
 <h4>Grocery  Store Manager APP</h4>
@@ -46,9 +46,9 @@
 </ul>
 <ul>
 <ul style="list-style: none;">
-<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/products.jpg" /></li>
+<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/products.jpeg" /></li>
 <li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/banners.jpeg" /></li>
-<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/coupons.jpg" /></li>
+<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/coupons.jpeg" /></li>
 </ul>
 
 <h4> GROCERY DELIVERY BOY APP FEATURES</h4>
