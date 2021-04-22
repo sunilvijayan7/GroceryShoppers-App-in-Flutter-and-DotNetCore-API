@@ -1,8 +1,8 @@
-<h1 align="center"># Grocery-Store---Flutter-.Net-Core-Firebase-One-Signal-SQL-Server</h1>
+<h1 align="center"># Grocery-Store developed in Flutter, .Net Core, Firebase, One-Signal, SQL-Server, Stripe, Razorpay, Paypal </h1>
 <h3 align="center">A complete grocery store developed with  Flutter, .Net Core, Firebase, One Signal and SQL Server as backend</h3>
 <h4 align="center">GroceryShoppers  aims to simplify grocery shopping by offering personalized, hand-delivered service at the swipe of your phone.</h4>
 
-<p align="center"> While grocery shopping online is not new, GroceryShoppers  offers a platform designed to address two major challenges. The first is its use of personal shoppers to handle the actual purchases, which is easier for customers than selecting items individually online. Second is its partnering with retail partners, allowing them to take full advantage of online shopping. GroceryShoppers  helps supermarkets digitise their inventory, manage online payments and provide customer care. The app also takes care of delivery. </p>
+<p> While grocery shopping online is not new, GroceryShoppers  offers a platform designed to address two major challenges. The first is its use of personal shoppers to handle the actual purchases, which is easier for customers than selecting items individually online. Second is its partnering with retail partners, allowing them to take full advantage of online shopping. GroceryShoppers  helps supermarkets digitise their inventory, manage online payments and provide customer care. The app also takes care of delivery. </p>
 
 <p>The app focuses on convenience. GroceryShoppers use the app to select their preferred supermarket/store and can set a deadline for receiving their groceries. The shopping is done by a personal shopper who hand delivers the groceries at the preselected time. GroceryShoppers  is already partnering with large local and international supermarket chains.</p>
 
@@ -17,7 +17,7 @@
 <li>Product Search</li>
 <li>Manage Address and Checkout features</li>
 <li>Favorites</li>
-<li>Payment (COD, Stripe)</li>
+<li>Payment (COD, Stripe, Razorpay, Paypal, Banks, Cards)</li>
 <li>Product Ratings</li>
 <li>Delivery boy Rating</li>
 <li>Push notifications</li>
@@ -27,8 +27,8 @@
 <li>Chat with the admin</li>
 </ul>
 <p align="center">
-  <img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/quickdelivery.png" width="200" height="400"/>
-  <img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/purchase.png"  width="200" height="400"/>
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/quickdelivery.png" width="200" height="400"/>
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/purchase.png"  width="200" height="400"/>
 <img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/orderonline.png"  width="200" height="400"/>
 <img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/customerorders.png"  width="200" height="400"/>
 <img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/checkout.png"  width="200" height="400"/>
@@ -44,11 +44,11 @@
 <li>Bulk Import/Export Products through Excel.</li>
 </ul>
 <ul>
-<ul style="list-style: none;">
-<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/products.jpeg" /></li>
-<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/banners.jpeg" /></li>
-<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/coupons.jpeg" /></li>
-</ul>
+<p align="center">
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/products.jpeg"  width="200" height="400"/>
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/banners.jpeg"  width="200" height="400"/>
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/coupons.jpeg"  width="200" height="400"/>
+</p>
 
 <h4> GROCERY DELIVERY BOY APP FEATURES</h4>
 
@@ -77,11 +77,11 @@
 <li>many more.</li>
 </ul>
 
-<div style="width:50%; height:50%">
+<p align="center">
 <img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/admin-categories.jpg" />
 <img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/admin-vendors.jpg" />
 <img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/admin-banners.jpg" />
-</div>
+</p>
 
 - 💻 All of my projects are available at [http://www.sunilvijayan.com/](http://www.sunilvijayan.com/)
 
