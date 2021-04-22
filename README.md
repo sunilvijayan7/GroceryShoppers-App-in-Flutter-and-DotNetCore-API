@@ -64,8 +64,8 @@
 </ul>
 
 <div style="width:50%; height:50%">
-<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/admin-categories.jpg />
-<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/admin-vendors.jpg />
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/admin-categories.jpg" />
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/admin-vendors.jpg" />
 <img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/admin-banners.jpg" />
 </div>
 
