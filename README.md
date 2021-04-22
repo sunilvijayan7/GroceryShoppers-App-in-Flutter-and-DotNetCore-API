@@ -26,14 +26,13 @@
 <li>Geo-Location enabled</li>
 <li>Chat with the admin</li>
 </ul>
-<ul>
-<ul style="list-style: none;">
-<li><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/quickdelivery.png" width="200" height="400"/></li>
-<li><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/purchase.png" /></li>
-<li ><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/orderonline.png" /></li>
-<li ><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/customerorders.png" /></li>
-<li ><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/checkout.png" /></li>
-</ul>
+<p align="center">
+  <img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/quickdelivery.png" width="200" height="400"/>
+  <img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/purchase.png"  width="200" height="400"/>
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/orderonline.png"  width="200" height="400"/>
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/customerorders.png"  width="200" height="400"/>
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/checkout.png"  width="200" height="400"/>
+</p>
 
 <h4>Grocery  Store Manager APP</h4>
 
