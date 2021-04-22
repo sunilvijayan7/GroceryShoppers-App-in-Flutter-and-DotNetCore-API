@@ -47,7 +47,7 @@
 <li>Manage Coupons</li>
 <li>Bulk Import/Export Products through Excel.</li>
 </ul>
-<ul>
+
 <h4> GROCERY DELIVERY BOY APP FEATURES</h4>
 <ul style="list-style-type:disc">
 <li>Individual credential for delivery boy.</li>
