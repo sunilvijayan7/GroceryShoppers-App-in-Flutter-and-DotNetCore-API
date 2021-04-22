@@ -64,9 +64,9 @@
 </ul>
 
 <div style="width:50%; height:50%">
-<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/admin-categories.jpg" />
-<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/admin-vendors.jpg" />
-<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/admin-banners.jpg" />
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/admin-categories.jpg" />
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/admin-vendors.jpg" />
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/admin-banners.jpg" />
 </div>
 
 - 💻 All of my projects are available at [http://www.sunilvijayan.com/](http://www.sunilvijayan.com/)
