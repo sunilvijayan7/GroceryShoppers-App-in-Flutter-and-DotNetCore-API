@@ -9,6 +9,14 @@
 
 <h3 align="left">Features</h3>
 <h4>GROCERY SHOPPING APP Features</h4>
+<p align="center">
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/quickdelivery.png" width="200" height="400"/>
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/purchase.png"  width="200" height="400"/>
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/orderonline.png"  width="200" height="400"/>
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/customerorders.png"  width="200" height="400"/>
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/checkout.png"  width="200" height="400"/>
+</p>
+
 <ul style="list-style-type:disc">
 <li>WEB, TAB and Mobile Based Design</li>
 <li>OTP Signup and Login</li>
@@ -26,16 +34,12 @@
 <li>Geo-Location enabled</li>
 <li>Chat with the admin</li>
 </ul>
-<p align="center">
-<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/quickdelivery.png" width="200" height="400"/>
-<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/purchase.png"  width="200" height="400"/>
-<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/orderonline.png"  width="200" height="400"/>
-<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/customerorders.png"  width="200" height="400"/>
-<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/checkout.png"  width="200" height="400"/>
-</p>
-
 <h4>Grocery  Store Manager APP</h4>
-
+<p align="center">
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/products.jpeg"  width="200" height="400"/>
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/banners.jpeg"  width="200" height="400"/>
+<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/coupons.jpeg"  width="200" height="400"/>
+</p>
 <ul style="list-style-type:disc">
 <li>Manage your products.</li>
 <li>Stock management</li>
@@ -44,14 +48,7 @@
 <li>Bulk Import/Export Products through Excel.</li>
 </ul>
 <ul>
-<p align="center">
-<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/products.jpeg"  width="200" height="400"/>
-<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/banners.jpeg"  width="200" height="400"/>
-<img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/coupons.jpeg"  width="200" height="400"/>
-</p>
-
 <h4> GROCERY DELIVERY BOY APP FEATURES</h4>
-
 <ul style="list-style-type:disc">
 <li>Individual credential for delivery boy.</li>
 <li>Real time order notification</li>
