@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ByDHxBQdYrUZf+YgZaKGWjhcNV7yqW4GHekHKguV3gx8L0CeShlalxt5MqF5Mvwjz4Pq6jSXnLp0wcrs8/wZ9Q==",
+  "success": true,
+  "projectFilePath": "D:\\GroceryShoppers\\Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server\\Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\entvi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\entvi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\entvi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\entvi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\entvi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\entvi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
