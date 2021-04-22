@@ -1,11 +1,11 @@
-<h1 align="center"># Grocery-Store developed in Flutter, .Net Core, Firebase, One-Signal, SQL-Server, Stripe, Razorpay, Paypal </h1>
-<h3 align="center">A complete grocery store developed with  Flutter, .Net Core, Firebase, One Signal and SQL Server as backend</h3>
+<h1 align="center"># Grocery-Store developed in Flutter,DotNet Core, Firebase, One-Signal, SQL-Server, Stripe, Razorpay, Paypal </h1>
+<h3 align="center">A complete grocery store developed with  Flutter, DoNet Core, Firebase, One Signal and SQL Server as backend</h3>
 <h4 align="center">GroceryShoppers  aims to simplify grocery shopping by offering personalized, hand-delivered service at the swipe of your phone.</h4>
 
 <p> While grocery shopping online is not new, GroceryShoppers  offers a platform designed to address two major challenges. The first is its use of personal shoppers to handle the actual purchases, which is easier for customers than selecting items individually online. Second is its partnering with retail partners, allowing them to take full advantage of online shopping. GroceryShoppers  helps supermarkets digitise their inventory, manage online payments and provide customer care. The app also takes care of delivery. </p>
 
 <p>The app focuses on convenience. GroceryShoppers use the app to select their preferred supermarket/store and can set a deadline for receiving their groceries. The shopping is done by a personal shopper who hand delivers the groceries at the preselected time. GroceryShoppers  is already partnering with large local and international supermarket chains.</p>
-
+<p>Take a look on the app concepts <a href="http://www.sunilvijayan.com/project"> here </a></p>
 
 <h3 align="left">Features</h3>
 <h4>GROCERY SHOPPING APP Features</h4>
