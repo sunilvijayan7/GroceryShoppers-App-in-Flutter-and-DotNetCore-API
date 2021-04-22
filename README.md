@@ -28,7 +28,7 @@
 </ul>
 <ul>
 <ul style="list-style: none;">
-<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/quickdelivery.png" /></li>
+<li style="width:20%"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/quickdelivery.png" /></li>
 <li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/purchase.png" /></li>
 <li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/orderonline.png" /></li>
 <li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/Customer/customerorders.png" /></li>
@@ -47,7 +47,7 @@
 <ul>
 <ul style="list-style: none;">
 <li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/products.jpg" /></li>
-<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/baners.jpg" /></li>
+<li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/banners.jpeg" /></li>
 <li style="display:inline;"><img src="https://github.com/sunilvijayan7/Grocery-Store-in-Flutter-.Net-Core-Firebase-One-Signal-SQL-Server/blob/main/Screenshots/StoreManager/coupons.jpg" /></li>
 </ul>
 
